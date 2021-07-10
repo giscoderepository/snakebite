@@ -1,0 +1,40 @@
+define({
+  start: 'Indítás',
+  chooseTemplateTip: 'Válasszon sablont',
+  chooseOtherTemplateTip: 'Válasszon másik sablont',
+  emptyTemplate: 'Üres sablonok',
+  lockItemRatio: 'Szélesség/magasság-arány zárolása',
+  itemStyle: 'Elem stílusa',
+  on: 'Be',
+  off: 'Ki',
+  cardAnimation: 'Animáció',
+  cardTransition: 'Áttűnés',
+  classic: 'Klasszikus',
+  classicTips: 'Lehetővé teszi a kapcsolódó információ részleteienek megjelenítését.',
+  classicHover: 'Haladó',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Kattintson duplán a szöveg szerkesztéséhez',
+  buttonText: 'Gomb',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Kártya címe',
+  createdAuthor: 'Létrehozó szerző',
+  createdBy: 'Létrehozta',
+  createdDate: 'Létrehozta:',
+  viewsNumber: 'Megtekintések száma',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Megosztás',
+  totlePeople: 'Személyek összesen',
+  oldPeopleText: 'Öreg személyek',
+  youngPeopleText: 'Fiatal személyek',
+  regularCard: 'Szabályos',
+  hoverCard: 'Rámutatás',
+  enableHover: 'Rámutatás engedélyezése',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kártya',
+  cardWidgetState: 'Államigazgatás'
+});

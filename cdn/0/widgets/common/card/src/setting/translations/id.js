@@ -1,0 +1,40 @@
+define({
+  start: 'Mulai',
+  chooseTemplateTip: 'Pilih template',
+  chooseOtherTemplateTip: 'Pilih template yang berbeda',
+  emptyTemplate: 'Template kosong',
+  lockItemRatio: 'Kunci rasio lebar / tinggi',
+  itemStyle: 'Gaya item',
+  on: 'Aktif',
+  off: 'Mati',
+  cardAnimation: 'Animasi',
+  cardTransition: 'Transisi',
+  classic: 'Klasik',
+  classicTips: 'Mengizinkan Anda untuk menampilkan sebagian informasi terkait.',
+  classicHover: 'Lanjutan',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Klik dua kali untuk mengedit teks',
+  buttonText: 'Tombol',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Gelar pada kartu',
+  createdAuthor: 'Penulis yang membuat',
+  createdBy: 'Dibuat oleh',
+  createdDate: 'Tanggal dibuat',
+  viewsNumber: 'Jumlah kali dilihat',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Bagikan',
+  totlePeople: 'Total orang',
+  oldPeopleText: 'Orang Tua',
+  youngPeopleText: 'Pemuda',
+  regularCard: 'Reguler',
+  hoverCard: 'Melayang',
+  enableHover: 'Aktifkan pengarahan mouse di atas',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kartu',
+  cardWidgetState: 'Negara'
+});

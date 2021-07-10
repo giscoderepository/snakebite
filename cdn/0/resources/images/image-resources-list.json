@@ -1,0 +1,38 @@
+{
+  "1622523464763": {
+    "originalName": "BA_0531.png",
+    "fileName": "1622523464763.png",
+    "size": 1896442,
+    "url": "${appResourceUrl}/images/widget_69/1622523464763.png",
+    "created": 1622523464763,
+    "resourcesPrefix": "images/widget_69",
+    "referedIds": [],
+    "originId": "1622523464763",
+    "fileFormat": "image/png",
+    "isUseCompress": false
+  },
+  "1623831151677": {
+    "originalName": "snakebite header.PNG",
+    "fileName": "1623831151677.PNG",
+    "size": 24651,
+    "url": "${appResourceUrl}/images/widget_134/1623831151677.PNG",
+    "created": 1623831151677,
+    "resourcesPrefix": "images/widget_134",
+    "referedIds": [],
+    "originId": "1623831151677",
+    "fileFormat": "image/png",
+    "isUseCompress": false
+  },
+  "1623860787444": {
+    "originalName": "snakebite footer.PNG",
+    "fileName": "1623860787444.PNG",
+    "size": 37033,
+    "url": "${appResourceUrl}/images/widget_137/1623860787444.PNG",
+    "created": 1623860787444,
+    "resourcesPrefix": "images/widget_137",
+    "referedIds": [],
+    "originId": "1623860787444",
+    "fileFormat": "image/png",
+    "isUseCompress": false
+  }
+}

@@ -1,0 +1,40 @@
+define({
+  start: 'Începere',
+  chooseTemplateTip: 'Selectaţi un şablon',
+  chooseOtherTemplateTip: 'Selectați un șablon diferit',
+  emptyTemplate: 'Șablon gol',
+  lockItemRatio: 'Blocare raport lățime/înălțime',
+  itemStyle: 'Stil de element',
+  on: 'Activ',
+  off: 'Inactiv',
+  cardAnimation: 'Animaţie',
+  cardTransition: 'Tranziţie',
+  classic: 'Clasic',
+  classicTips: 'Vă permite să afișați bucăți de informații corelate.',
+  classicHover: 'Avansat',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Faceți dublu clic pentru a edita textul',
+  buttonText: 'Buton',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Titlul cartelei',
+  createdAuthor: 'Autor creat',
+  createdBy: 'Creat de',
+  createdDate: 'Data creării',
+  viewsNumber: 'Număr de vizualizări',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Partajare',
+  totlePeople: 'Total persoane',
+  oldPeopleText: 'Persoane în vârstă',
+  youngPeopleText: 'Persoane tinere',
+  regularCard: 'Normal',
+  hoverCard: 'Trecere cu mouse-ul',
+  enableHover: 'Activați trecerea cu mouse-ul',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Cartelă',
+  cardWidgetState: 'Stat'
+});

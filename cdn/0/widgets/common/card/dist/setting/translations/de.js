@@ -1,0 +1,40 @@
+define({
+  start: 'Start',
+  chooseTemplateTip: 'Vorlage auswählen',
+  chooseOtherTemplateTip: 'Eine andere Vorlage auswählen',
+  emptyTemplate: 'Leere Vorlage',
+  lockItemRatio: 'Verhältnis von Höhe zu Breite sperren',
+  itemStyle: 'Element-Style',
+  on: 'Ein',
+  off: 'Aus',
+  cardAnimation: 'Animation',
+  cardTransition: 'Übergang',
+  classic: 'Klassisch',
+  classicTips: 'Darüber können zugehörige Informationen angezeigt werden.',
+  classicHover: 'Erweitert',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Doppelklicken, um Text zu bearbeiten',
+  buttonText: 'Schaltfläche',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Kacheltitel',
+  createdAuthor: 'Autor',
+  createdBy: 'Erstellt von',
+  createdDate: 'Erstellungsdatum',
+  viewsNumber: 'Anzahl der Aufrufe',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'Admin',
+  shareButtonText: 'Freigeben',
+  totlePeople: 'Menschen gesamt',
+  oldPeopleText: 'Alte Menschen',
+  youngPeopleText: 'Junge Menschen',
+  regularCard: 'Normal',
+  hoverCard: 'Daraufzeigen',
+  enableHover: 'Daraufzeigen aktivieren',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kachel',
+  cardWidgetState: 'Zustand'
+});

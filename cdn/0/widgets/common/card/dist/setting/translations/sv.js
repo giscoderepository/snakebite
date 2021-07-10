@@ -1,0 +1,40 @@
+define({
+  start: 'Start',
+  chooseTemplateTip: 'Välj en mall',
+  chooseOtherTemplateTip: 'Välj en annan mall',
+  emptyTemplate: 'Tom mall',
+  lockItemRatio: 'Lås bredd/höjdförhållande',
+  itemStyle: 'Objektstil',
+  on: 'På',
+  off: 'Av',
+  cardAnimation: 'Animering',
+  cardTransition: 'Övergång',
+  classic: 'Klassisk',
+  classicTips: 'Låter dig visa bitar av relaterad information.',
+  classicHover: 'Avancerad',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Dubbelklicka för att redigera text',
+  buttonText: 'Knapp',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Korttitel',
+  createdAuthor: 'Skapad författare',
+  createdBy: 'Skapad av',
+  createdDate: 'Skapad datum',
+  viewsNumber: 'Antal visningar',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Dela',
+  totlePeople: 'Deltagare totalt',
+  oldPeopleText: 'Äldre personer',
+  youngPeopleText: 'Unga personer',
+  regularCard: 'Reguljärt',
+  hoverCard: 'Hovra',
+  enableHover: 'Aktivera hovring',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kort',
+  cardWidgetState: 'Delstat'
+});

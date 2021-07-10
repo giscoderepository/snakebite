@@ -1,0 +1,40 @@
+define({
+  start: 'Start',
+  chooseTemplateTip: 'Selecteer een template',
+  chooseOtherTemplateTip: 'Selecteer een verschillende template',
+  emptyTemplate: 'Lege template',
+  lockItemRatio: 'Breedte / hoogte verhouding vergrendelen',
+  itemStyle: 'Itemstijl',
+  on: 'Aan',
+  off: 'Uit',
+  cardAnimation: 'Animatie',
+  cardTransition: 'Transitie',
+  classic: 'Klassiek',
+  classicTips: 'Hiermee kunt u stukjes gerelateerde informatie weergeven.',
+  classicHover: 'Geavanceerd',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Dubbelklik om de tekst te bewerken',
+  buttonText: 'Knop',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Titel van de kaart.',
+  createdAuthor: 'Auteur van aangemaakt',
+  createdBy: 'Gemaakt door',
+  createdDate: 'Datum aangemaakt',
+  viewsNumber: 'Aantal weergaven',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'beheerder',
+  shareButtonText: 'Delen',
+  totlePeople: 'Totaal aantal personen',
+  oldPeopleText: 'Oude personen',
+  youngPeopleText: 'Jonge personen',
+  regularCard: 'Normaal',
+  hoverCard: 'Zweven',
+  enableHover: 'Zweven inschakelen',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Card',
+  cardWidgetState: 'Staat'
+});

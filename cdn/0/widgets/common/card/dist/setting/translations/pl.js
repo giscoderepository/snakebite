@@ -1,0 +1,40 @@
+define({
+  start: 'Uruchom',
+  chooseTemplateTip: 'Wybierz szablon',
+  chooseOtherTemplateTip: 'Wybierz inny szablon',
+  emptyTemplate: 'Pusty szablon',
+  lockItemRatio: 'Zablokuj współczynnik szerokość/wysokość',
+  itemStyle: 'Styl elementu',
+  on: 'pozostało:',
+  off: 'Wył',
+  cardAnimation: 'Animacja',
+  cardTransition: 'Przejście',
+  classic: 'Klasyczny',
+  classicTips: 'Umożliwia wyświetlanie powiązanych informacji.',
+  classicHover: 'Advanced',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Kliknij dwukrotnie, aby edytować tekst',
+  buttonText: 'Przycisk',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Tytuł karty',
+  createdAuthor: 'Autor',
+  createdBy: 'Utworzone przez',
+  createdDate: 'Data utworzenia',
+  viewsNumber: 'Liczba widoków',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Udostępnianie',
+  totlePeople: 'Łączna liczba użytkowników',
+  oldPeopleText: 'Starzy użytkownicy',
+  youngPeopleText: 'Młodzi użytkownicy',
+  regularCard: 'Zwykły',
+  hoverCard: 'Wskazanie kursorem',
+  enableHover: 'Włącz wskazywanie kursorem',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Karta',
+  cardWidgetState: 'Województwo'
+});

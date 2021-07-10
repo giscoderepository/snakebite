@@ -1,0 +1,40 @@
+define({
+  start: 'เริ่ม',
+  chooseTemplateTip: 'เลือกเทมเพลต',
+  chooseOtherTemplateTip: 'เลือกเทมเพลตที่แตกต่างกัน',
+  emptyTemplate: 'เทมเพลตเปล่า',
+  lockItemRatio: 'ล็อคอัตราส่วนความกว้าง / ความสูง',
+  itemStyle: 'สไตล์ของรายการ',
+  on: 'เปิด',
+  off: 'ปิด',
+  cardAnimation: 'อนิเมชัน',
+  cardTransition: 'ส่งผ่าน',
+  classic: 'คลาสสิก',
+  classicTips: 'ช่วยให้คุณสามารถแสดงข้อมูลเล็กๆ น้อยๆ ที่เกี่ยวข้องได้',
+  classicHover: 'ขั้นสูง',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'ดับเบิลคลิกเพื่อแก้ไขข้อความ',
+  buttonText: 'ปุ่มกด',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'ชื่อการ์ด',
+  createdAuthor: 'เจ้าของผู้สร้าง',
+  createdBy: 'สร้างขึ้นโดย',
+  createdDate: 'วันที่ที่สร้าง',
+  viewsNumber: 'จำนวนการเข้าชม',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'ผู้ดูแล',
+  shareButtonText: 'แชร์',
+  totlePeople: 'ประชากรทั้งหมด',
+  oldPeopleText: 'คนแก่',
+  youngPeopleText: 'คนหนุ่มสาว',
+  regularCard: 'ปกติ',
+  hoverCard: 'โฮเวอร์',
+  enableHover: 'เปิดใช้งานการชี้เมาส์',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'การ์ด',
+  cardWidgetState: 'เมือง'
+});

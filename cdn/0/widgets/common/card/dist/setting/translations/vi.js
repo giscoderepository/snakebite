@@ -1,0 +1,40 @@
+define({
+  start: 'Bắt đầu',
+  chooseTemplateTip: 'Chọn một mẫu',
+  chooseOtherTemplateTip: 'Chọn một mẫu khác',
+  emptyTemplate: 'Biểu mẫu trống',
+  lockItemRatio: 'Khóa tỉ lệ chiều rộng / chiều cao',
+  itemStyle: 'Kiểu mục',
+  on: 'Bật',
+  off: 'Tắt',
+  cardAnimation: 'Hoạt ảnh',
+  cardTransition: 'Chuyển tiếp',
+  classic: 'Cổ điển',
+  classicTips: 'Cho phép bạn hiển thị các mẩu thông tin liên quan.',
+  classicHover: 'Nâng cao',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Nhấp đúp chuột để chỉnh sửa văn bản',
+  buttonText: 'Nút',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Tiêu đề thẻ',
+  createdAuthor: 'Tác giả đã tạo',
+  createdBy: 'Được tạo bởi',
+  createdDate: 'Ngày tạo',
+  viewsNumber: 'Số lượt xem',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'quản trị',
+  shareButtonText: 'Chia sẻ',
+  totlePeople: 'Tổng số học viên',
+  oldPeopleText: 'Học viên lớn tuổi',
+  youngPeopleText: 'Học viên trẻ tuổi',
+  regularCard: 'Thường',
+  hoverCard: 'Di chuột qua',
+  enableHover: 'Cho phép di chuột',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Thẻ',
+  cardWidgetState: 'Tiểu bang'
+});

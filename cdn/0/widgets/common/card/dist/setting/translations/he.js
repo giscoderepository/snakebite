@@ -1,0 +1,40 @@
+define({
+  start: 'התחלה',
+  chooseTemplateTip: 'בחר תבנית',
+  chooseOtherTemplateTip: 'בחר תבנית אחרת',
+  emptyTemplate: 'תבנית ריקה',
+  lockItemRatio: 'נעל יחס גובה/רוחב',
+  itemStyle: 'סגנון של פריט',
+  on: 'פעול',
+  off: 'כבוי',
+  cardAnimation: 'אנימציה',
+  cardTransition: 'מעבר',
+  classic: 'קלאסי',
+  classicTips: 'מאפשר לך להציג חלקים מהמידע הקשור.',
+  classicHover: 'מתקדם',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'לחץ פעמיים לעריכת הטקסט',
+  buttonText: 'לחצן',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'כותרת כרטיס',
+  createdAuthor: 'המחבר היוצר',
+  createdBy: 'נוצר על ידי',
+  createdDate: 'תאריך יצירה',
+  viewsNumber: 'מספר צפיות',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'מנהל מערכת',
+  shareButtonText: 'שתף',
+  totlePeople: 'סך האנשים',
+  oldPeopleText: 'אנשים מבוגרים',
+  youngPeopleText: 'אנשים צעירים',
+  regularCard: 'רגיל',
+  hoverCard: 'העבר את העכבר מעל',
+  enableHover: 'אפשר העברת עכבר מעל',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'כרטיס',
+  cardWidgetState: 'מדינה'
+});

@@ -1,0 +1,40 @@
+define({
+  start: 'Başlat',
+  chooseTemplateTip: 'Şablon seç',
+  chooseOtherTemplateTip: 'Farklı bir şablon seç',
+  emptyTemplate: 'Boş şablon',
+  lockItemRatio: 'En/boy oranını kilitle',
+  itemStyle: 'Öge stili',
+  on: 'Açık',
+  off: 'Kapalı',
+  cardAnimation: 'Animasyon',
+  cardTransition: 'Geçiş',
+  classic: 'Klasik',
+  classicTips: 'İlgili bilgi bitlerini görüntülemenize izin verir.',
+  classicHover: 'Advanced',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Metni düzenlemek için çift tıklayın',
+  buttonText: 'Düğme',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Kart başlığı',
+  createdAuthor: 'Oluşturulan yazar',
+  createdBy: 'Oluşturan',
+  createdDate: 'Oluşturulan tarih',
+  viewsNumber: 'Sayıyı görüntüler',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'yönetici',
+  shareButtonText: 'Paylaş',
+  totlePeople: 'Toplam insan',
+  oldPeopleText: 'Yaşlı İnsanlar',
+  youngPeopleText: 'Genç İnsanlar',
+  regularCard: 'Normal',
+  hoverCard: 'Dolaştır',
+  enableHover: 'Dolaştırmayı etkinleştir',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kart',
+  cardWidgetState: 'Eyalet'
+});

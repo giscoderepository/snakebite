@@ -1,0 +1,40 @@
+define({
+  start: '起動',
+  chooseTemplateTip: 'テンプレートの選択',
+  chooseOtherTemplateTip: '別のテンプレートを選択',
+  emptyTemplate: '空のテンプレート',
+  lockItemRatio: '幅/高さの比をロック',
+  itemStyle: 'アイテム スタイル',
+  on: 'オン',
+  off: 'オフ',
+  cardAnimation: 'アニメーション',
+  cardTransition: 'トランジション',
+  classic: 'クラシック',
+  classicTips: '関連情報の一部を表示できます。',
+  classicHover: '高度',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'ダブルクリックしてテキストを編集',
+  buttonText: 'ボタン',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'カードのタイトル',
+  createdAuthor: '作成者',
+  createdBy: '作成者',
+  createdDate: '作成日',
+  viewsNumber: 'ビュー回数',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: '共有',
+  totlePeople: '総参加者',
+  oldPeopleText: '高齢者',
+  youngPeopleText: '若者',
+  regularCard: '標準',
+  hoverCard: 'ホバー',
+  enableHover: 'ホバーの有効化',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'カード',
+  cardWidgetState: '状態'
+});

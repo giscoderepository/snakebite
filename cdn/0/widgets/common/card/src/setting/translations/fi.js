@@ -1,0 +1,40 @@
+define({
+  start: 'Aloita',
+  chooseTemplateTip: 'Valitse malli',
+  chooseOtherTemplateTip: 'Valitse toinen malli',
+  emptyTemplate: 'Tyhjä malli',
+  lockItemRatio: 'Lukitse leveyden ja korkeuden suhde',
+  itemStyle: 'Kohteen tyyli',
+  on: 'Käytössä',
+  off: 'Poissa käytöstä',
+  cardAnimation: 'Animaatio',
+  cardTransition: 'Siirtymä',
+  classic: 'Klassinen',
+  classicTips: 'Voit näyttää liittyvien tietojen osia.',
+  classicHover: 'Lisäasetukset',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Muokkaa tekstiä kaksoisnapsauttamalla',
+  buttonText: 'Painike',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Kortin otsikko',
+  createdAuthor: 'Luonut tekijä',
+  createdBy: 'Tekijä:',
+  createdDate: 'Luontipäivämäärä',
+  viewsNumber: 'Katselukertojen määrä',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'järjestelmänvalvoja',
+  shareButtonText: 'Jaa',
+  totlePeople: 'Henkilöitä yhteensä',
+  oldPeopleText: 'Vanhoja ihmisiä',
+  youngPeopleText: 'Nuoria ihmisiä',
+  regularCard: 'Säännöllinen',
+  hoverCard: 'Kohoteksti',
+  enableHover: 'Ota hiirellä osoittaminen käyttöön',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kortti',
+  cardWidgetState: 'Osavaltio/valtio'
+});

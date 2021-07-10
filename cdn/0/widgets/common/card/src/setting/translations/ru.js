@@ -1,0 +1,40 @@
+define({
+  start: 'Начать',
+  chooseTemplateTip: 'Выбрать шаблон',
+  chooseOtherTemplateTip: 'Выбрать другой шаблон.',
+  emptyTemplate: 'Пустой шаблон',
+  lockItemRatio: 'Зафиксировать отношение ширина / высота',
+  itemStyle: 'Стиль элемента',
+  on: 'Вкл.',
+  off: 'Выкл',
+  cardAnimation: 'Анимация',
+  cardTransition: 'Переход',
+  classic: 'Классическая',
+  classicTips: 'Позволяет отображать биты связанной информации.',
+  classicHover: 'Расширенный',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Дважды щелкните, чтобы изменить текст',
+  buttonText: 'Кнопка',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Заголовок карточки',
+  createdAuthor: 'Создано автором',
+  createdBy: 'Автор',
+  createdDate: 'Дата создания',
+  viewsNumber: 'Количество просмотров',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'администрирование',
+  shareButtonText: 'Общий доступ',
+  totlePeople: 'Всего человек',
+  oldPeopleText: 'Пожилых',
+  youngPeopleText: 'Молодых',
+  regularCard: 'Регулярно',
+  hoverCard: 'При наведении',
+  enableHover: 'Активировать наведение',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Карточка',
+  cardWidgetState: 'Штат'
+});

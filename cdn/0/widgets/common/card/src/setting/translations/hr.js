@@ -1,0 +1,40 @@
+define({
+  start: 'Počni',
+  chooseTemplateTip: 'Odaberite predložak',
+  chooseOtherTemplateTip: 'Odaberite drugačiji predložak',
+  emptyTemplate: 'Prazni predložak',
+  lockItemRatio: 'Blokiraj omjer širine/visine',
+  itemStyle: 'Stil stavke',
+  on: 'Uključeno',
+  off: 'Isključeno',
+  cardAnimation: 'Animacija',
+  cardTransition: 'Prijelaz',
+  classic: 'Klasično',
+  classicTips: 'Omogućuje vam prikaz dijelova povezanih informacija.',
+  classicHover: 'Napredno',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Dvaput kliknite da biste uredili tekst',
+  buttonText: 'Gumb',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Naziv kartice',
+  createdAuthor: 'Stvoreni autor',
+  createdBy: 'Stvorio/la',
+  createdDate: 'Datum stvaranja',
+  viewsNumber: 'Broj pogleda',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'administrator',
+  shareButtonText: 'Podijeli',
+  totlePeople: 'Ukupno ljudi',
+  oldPeopleText: 'Stari ljudi',
+  youngPeopleText: 'Mladi ljudi',
+  regularCard: 'Regularno',
+  hoverCard: 'Držanje iznad',
+  enableHover: 'Omogući lebdjenje',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kartica',
+  cardWidgetState: 'Pokrajina'
+});

@@ -1,0 +1,40 @@
+define({
+  start: '開始',
+  chooseTemplateTip: '選擇範本',
+  chooseOtherTemplateTip: '選擇不同範本',
+  emptyTemplate: '空白範本',
+  lockItemRatio: '鎖正寬度 / 基本高度比',
+  itemStyle: '項目樣式',
+  on: '打開',
+  off: '關閉',
+  cardAnimation: '動畫',
+  cardTransition: '轉換',
+  classic: '經典',
+  classicTips: '可讓您顯示相關資訊的位元。',
+  classicHover: '進階版',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: '按兩下以編輯文字',
+  buttonText: '按鈕',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: '卡片標題',
+  createdAuthor: '建立的作者',
+  createdBy: '建立者',
+  createdDate: '建立的日期',
+  viewsNumber: '視圖數目',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: '共用',
+  totlePeople: '總人數',
+  oldPeopleText: '老人',
+  youngPeopleText: '年輕人',
+  regularCard: '定期',
+  hoverCard: '懸停',
+  enableHover: '啟用懸停',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: '卡片',
+  cardWidgetState: '省/自治區/直轄市'
+});

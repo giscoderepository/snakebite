@@ -1,0 +1,40 @@
+define({
+  start: 'Začiatok',
+  chooseTemplateTip: 'Vyberte šablónu',
+  chooseOtherTemplateTip: 'Vybrať inú šablónu',
+  emptyTemplate: 'Prázdna šablóna',
+  lockItemRatio: 'Zamknúť pomer šírka/výška',
+  itemStyle: 'Štýl položky',
+  on: 'Zapnuté',
+  off: 'Vypnuté',
+  cardAnimation: 'Animácia',
+  cardTransition: 'Prechod',
+  classic: 'Klasický',
+  classicTips: 'Povoľuje zobrazenie bitov súvisiacich informácií.',
+  classicHover: 'Rozšírené',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Dvojklik pre úpravu textu',
+  buttonText: 'Tlačidlo',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Názov karty',
+  createdAuthor: 'Vytvorený autor',
+  createdBy: 'Vytvoril',
+  createdDate: 'Vytvorené dňa',
+  viewsNumber: 'Počet zobrazení',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'správca',
+  shareButtonText: 'Zdieľať',
+  totlePeople: 'Celkový počet ľudí',
+  oldPeopleText: 'Starí ľudia',
+  youngPeopleText: 'Mladí ľudia',
+  regularCard: 'Pravidelné',
+  hoverCard: 'Plávajúce',
+  enableHover: 'Povoliť hover',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Karta',
+  cardWidgetState: 'Štát'
+});

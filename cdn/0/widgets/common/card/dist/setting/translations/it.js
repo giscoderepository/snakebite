@@ -1,0 +1,40 @@
+define({
+  start: 'Inizio',
+  chooseTemplateTip: 'Seleziona modello',
+  chooseOtherTemplateTip: 'Seleziona modello diverso',
+  emptyTemplate: 'Modello vuoto',
+  lockItemRatio: 'Bloccare il rapporto larghezza / altezza',
+  itemStyle: 'Stile dell\'elemento',
+  on: 'Sì',
+  off: 'Disattivato',
+  cardAnimation: 'Animazione',
+  cardTransition: 'Transizione',
+  classic: 'Classico',
+  classicTips: 'Consente di visualizzare bit di informazioni correlate.',
+  classicHover: 'Avanzato',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Fare doppio clic per modificare il testo',
+  buttonText: 'Pulsante',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Titolo scheda',
+  createdAuthor: 'Creazione autore',
+  createdBy: 'Creato da',
+  createdDate: 'Creazione data',
+  viewsNumber: 'Numero viste',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Condividi',
+  totlePeople: 'Totale persone',
+  oldPeopleText: 'Anziani',
+  youngPeopleText: 'Giovani',
+  regularCard: 'Regolare',
+  hoverCard: 'Passaggio del mouse',
+  enableHover: 'Attiva passaggio del mouse',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Carta',
+  cardWidgetState: 'Stato'
+});

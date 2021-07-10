@@ -1,0 +1,40 @@
+define({
+  start: 'Start',
+  chooseTemplateTip: 'Velg en mal',
+  chooseOtherTemplateTip: 'Velg en annen mal',
+  emptyTemplate: 'Tøm malen',
+  lockItemRatio: 'Lås bredde/høydeforholdet',
+  itemStyle: 'Elementstil',
+  on: 'På',
+  off: 'Av',
+  cardAnimation: 'Animasjon',
+  cardTransition: 'Overgang',
+  classic: 'Klassisk',
+  classicTips: 'Lar deg vise litt relevant informasjon.',
+  classicHover: 'Avansert',
+  classicHoverTips:
+    'Provides different layouts at hovering so you can view more information.',
+  // template
+  textPlaceholder: 'Dobbeltklikk for å redigere teksten',
+  buttonText: 'Knapp',
+  contentPlaceholder:
+    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  cardTemplateTitle: 'Korttittel',
+  createdAuthor: 'Opprettet forfatter',
+  createdBy: 'Opprettet av',
+  createdDate: 'Opprettet dato',
+  viewsNumber: 'Visninger antall',
+  createdDateTime: 'xxx',
+  createdAuthorName: 'admin',
+  shareButtonText: 'Dele',
+  totlePeople: 'Totalt antall personer',
+  oldPeopleText: 'Eldre personer',
+  youngPeopleText: 'Unge personer',
+  regularCard: 'Vanlig',
+  hoverCard: 'Hover',
+  enableHover: 'Aktiver hover',
+  useTips:
+    'To config the card content , please select each component inside card on canvas. For example, click on image to access the image settings.',
+  cardWidgetName: 'Kort',
+  cardWidgetState: 'Stat'
+});

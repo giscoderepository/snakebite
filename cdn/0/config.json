@@ -1,0 +1,5876 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "AUTO_SCROLL",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page 1",
+      "header": false,
+      "bodyBackgroundColor": "#ffffff",
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FLOW",
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "462px",
+            "right": "862px",
+            "top": "400px",
+            "bottom": "800px",
+            "width": "400px",
+            "height": 462
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "361px",
+            "right": "961px",
+            "top": "823px",
+            "bottom": "1223px",
+            "width": "600px",
+            "height": 458
+          },
+          "widgetId": "widget_36",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "7": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "283px",
+            "right": "633px",
+            "top": "0px",
+            "bottom": "400px",
+            "width": "350px",
+            "height": 228
+          },
+          "widgetId": "widget_115",
+          "setting": {
+            "heightMode": "fixed",
+            "width": "85%"
+          }
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "211px",
+            "right": "1011px",
+            "top": "130px",
+            "bottom": "530px",
+            "width": "800px",
+            "height": 266
+          },
+          "widgetId": "widget_117",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        },
+        "11": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "449px",
+            "right": "809px",
+            "top": "74px",
+            "bottom": "144px",
+            "width": "360px",
+            "height": 38
+          },
+          "widgetId": "widget_138",
+          "setting": {
+            "heightMode": "auto"
+          }
+        },
+        "12": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "226px",
+            "right": "576px",
+            "top": "0px",
+            "bottom": "400px",
+            "width": "350px",
+            "height": 133
+          },
+          "widgetId": "widget_140",
+          "setting": {
+            "heightMode": "fixed"
+          }
+        }
+      },
+      "order": [
+        "11",
+        "12",
+        "7",
+        "8",
+        "3",
+        "4"
+      ]
+    },
+    "layout_10": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_12": {
+      "type": "FIXED",
+      "content": {
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "22px",
+            "right": "194px",
+            "top": "4.6%",
+            "bottom": "218px",
+            "width": "65.6%",
+            "height": "38px"
+          },
+          "widgetId": "widget_23",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            },
+            "lockParent": false
+          },
+          "isPending": false
+        },
+        "5": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "2.9%",
+            "right": "2.0%",
+            "top": "16.9%",
+            "bottom": "7.0%",
+            "width": "95.1%",
+            "height": "76.1%"
+          },
+          "widgetId": "widget_24",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "7": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "78.9%",
+            "right": "3.9%",
+            "top": "17.3%",
+            "bottom": "72.7%",
+            "width": "20.00%",
+            "height": "10.00%"
+          },
+          "widgetId": "widget_26",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "bottom": true,
+              "top": false
+            },
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "78.9%",
+            "right": "3.9%",
+            "top": "3.4%",
+            "bottom": "86.6%",
+            "width": "20.00%",
+            "height": "10.00%"
+          },
+          "widgetId": "widget_38",
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "bottom": true,
+              "top": false
+            },
+            "lockParent": true
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "4",
+        "5",
+        "7",
+        "8"
+      ],
+      "label": "Regular"
+    },
+    "layout_15": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 1,
+            "width": 10,
+            "height": "400px"
+          },
+          "widgetId": "widget_35",
+          "setting": {
+            "heightMode": "fit"
+          }
+        }
+      }
+    },
+    "layout_16": {
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    },
+    "layout_17": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 1,
+            "width": 10,
+            "height": "400px"
+          },
+          "widgetId": "widget_37",
+          "setting": {
+            "heightMode": "fit"
+          }
+        }
+      }
+    },
+    "layout_23": {
+      "type": "FIXED",
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "bottom": false,
+              "top": true,
+              "width": "STRETCH",
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "order": 0,
+            "lockParent": false,
+            "lockLayout": false
+          },
+          "bbox": {
+            "left": "13.8%",
+            "top": "90.7%",
+            "width": "58.9%",
+            "height": "7.0%",
+            "right": "27.3%",
+            "bottom": "14px"
+          },
+          "widgetId": "widget_68",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "-0.1%",
+            "bottom": "12.3%",
+            "width": "100.0%",
+            "height": "87.8%"
+          },
+          "widgetId": "widget_69",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "68.3%",
+            "right": "7.2%",
+            "top": "88.50000000000001%",
+            "bottom": "3.1%",
+            "width": "24.4%",
+            "height": "5.00%"
+          },
+          "widgetId": "widget_70",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "2",
+        "3",
+        "4"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_24": {
+      "type": "FIXED",
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "bottom": false,
+              "top": true,
+              "width": "STRETCH",
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "order": 0,
+            "lockParent": false,
+            "lockLayout": false
+          },
+          "bbox": {
+            "left": "15.5%",
+            "top": "93.20000000000007%",
+            "width": "71.3%",
+            "height": "5.6%",
+            "right": "13.2%",
+            "bottom": "12px"
+          },
+          "widgetId": "widget_73",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.4%",
+            "right": "66.9%",
+            "top": "3.3000000000000003%",
+            "bottom": "66.79999999999995%",
+            "width": "285px",
+            "height": "180px"
+          },
+          "widgetId": "widget_74",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "4": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "1.4%",
+            "right": "86.8%",
+            "top": "38.09999999999999%",
+            "bottom": "56.70000000000001%",
+            "width": "11.8%",
+            "height": "5.2%"
+          },
+          "widgetId": "widget_93",
+          "isPending": false
+        },
+        "5": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "34.3%",
+            "right": "34.0%",
+            "top": "3.3000000000000003%",
+            "bottom": "66.49999999999994%",
+            "width": "285px",
+            "height": "180.00px"
+          },
+          "widgetId": "widget_94",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "66.7%",
+            "right": "1.6%",
+            "top": "3.3%",
+            "bottom": "60.7%",
+            "width": "285px",
+            "height": "180px"
+          },
+          "widgetId": "widget_96",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "7": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "1.5%",
+            "right": "66.9%",
+            "top": "47.600000000000044%",
+            "bottom": "17.699999999999953%",
+            "width": "285px",
+            "height": "180.00px"
+          },
+          "widgetId": "widget_98",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "34.4%",
+            "right": "34.0%",
+            "top": "47.900000000000055%",
+            "bottom": "17.199999999999946%",
+            "width": "285px",
+            "height": "180.00px"
+          },
+          "widgetId": "widget_100",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "9": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "66.8%",
+            "right": "1.6%",
+            "top": "48.600000000000065%",
+            "bottom": "16.69999999999994%",
+            "width": "285px",
+            "height": "180.00px"
+          },
+          "widgetId": "widget_102",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false,
+              "width": false,
+              "height": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "10": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "17.8%",
+            "right": "67.1%",
+            "top": "40.40000000000005%",
+            "bottom": "55.59999999999995%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_104",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "11": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "51.3%",
+            "right": "33.6%",
+            "top": "41.20000000000004%",
+            "bottom": "54.79999999999996%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_105",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "12": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "83.3%",
+            "right": "1.6%",
+            "top": "41.40000000000005%",
+            "bottom": "54.59999999999995%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_106",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "13": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "83.3%",
+            "right": "1.6%",
+            "top": "84.49999999999974%",
+            "bottom": "11.500000000000016%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_107",
+          "isPending": false
+        },
+        "14": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "51.2%",
+            "right": "33.7%",
+            "top": "84.2999999999998%",
+            "bottom": "11.50%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_108",
+          "isPending": false
+        },
+        "15": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "18.1%",
+            "right": "66.8%",
+            "top": "83.9%",
+            "bottom": "11.50%",
+            "width": "15.1%",
+            "height": "4.0%"
+          },
+          "widgetId": "widget_109",
+          "isPending": false
+        },
+        "16": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "1.4%",
+            "right": "82.2%",
+            "top": "83.4%",
+            "bottom": "11.1%",
+            "width": "16.4%",
+            "height": "5.5%"
+          },
+          "widgetId": "widget_110",
+          "isPending": false
+        },
+        "17": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "34.9%",
+            "right": "48.7%",
+            "top": "39.4%",
+            "bottom": "55.4%",
+            "width": "16.4%",
+            "height": "5.2%"
+          },
+          "widgetId": "widget_111",
+          "isPending": false
+        },
+        "18": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "67.5%",
+            "right": "16.1%",
+            "top": "39.6%",
+            "bottom": "55.2%",
+            "width": "16.4%",
+            "height": "5.2%"
+          },
+          "widgetId": "widget_112",
+          "isPending": false
+        },
+        "19": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "34.8%",
+            "right": "48.8%",
+            "top": "84.3%",
+            "bottom": "10.2%",
+            "width": "16.4%",
+            "height": "5.5%"
+          },
+          "widgetId": "widget_113",
+          "isPending": false
+        },
+        "20": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "67.4%",
+            "right": "16.2%",
+            "top": "84.4%",
+            "bottom": "10.1%",
+            "width": "16.4%",
+            "height": "5.5%"
+          },
+          "widgetId": "widget_114",
+          "isPending": false
+        }
+      },
+      "order": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_29": {
+      "type": "FIXED",
+      "content": {
+        "6": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "right": 0,
+            "top": "0.0000%",
+            "bottom": 0,
+            "width": "100.0000%",
+            "height": "100.0000%"
+          },
+          "widgetId": "widget_91",
+          "setting": {
+            "lockParent": true
+          }
+        }
+      },
+      "order": [
+        "6"
+      ],
+      "label": "Regular"
+    },
+    "layout_30": {
+      "label": "Hover",
+      "type": "FIXED",
+      "content": {},
+      "order": []
+    },
+    "layout_31": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "right": "0px",
+            "top": "0.0%",
+            "bottom": "0px",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_95",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_32": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_33": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "right": "0px",
+            "top": "0.0%",
+            "bottom": "0px",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_97",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_34": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_35": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "right": "0px",
+            "top": "0.0%",
+            "bottom": "0px",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_99",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_36": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_37": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "right": "0px",
+            "top": "0.0%",
+            "bottom": "0px",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_101",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_38": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_39": {
+      "type": "FIXED",
+      "label": "Regular",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "right": "0px",
+            "top": "0.0%",
+            "bottom": "0px",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_103",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_40": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_41": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 0,
+            "width": null,
+            "height": "213px"
+          },
+          "widgetId": "widget_119",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "CUSTOM"
+            },
+            "style": {
+              "alignSelf": "center"
+            },
+            "offsetX": 0
+          }
+        }
+      }
+    },
+    "layout_42": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "1",
+        "2"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 1,
+            "width": 3,
+            "height": "257px"
+          },
+          "widgetId": "widget_65"
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "heightMode": "fit"
+          },
+          "bbox": {
+            "left": 4,
+            "width": 7,
+            "height": "257px"
+          },
+          "widgetId": "widget_11"
+        }
+      }
+    },
+    "layout_45": {
+      "label": "Selected",
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "13.4%",
+            "top": "3.7%",
+            "width": "85px",
+            "height": "43.9%",
+            "right": "15.2%",
+            "bottom": "52.4%"
+          },
+          "widgetId": "widget_123",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "width": true,
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "4.1%",
+            "top": "67.5%",
+            "width": "111px",
+            "height": "32.7%",
+            "right": "2.8%",
+            "bottom": "-0.2%"
+          },
+          "widgetId": "widget_135",
+          "setting": {
+            "lockParent": true,
+            "autoProps": {
+              "width": true,
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "2"
+      ]
+    },
+    "layout_46": {
+      "label": "Hover",
+      "type": "FIXED"
+    },
+    "layout_48": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "-0.1%",
+            "top": "-0.3%",
+            "width": "198px",
+            "height": "61.7%",
+            "right": "0.1%",
+            "bottom": "67px"
+          },
+          "widgetId": "widget_123",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "width": true,
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "4.1%",
+            "top": "67.5%",
+            "width": "111px",
+            "height": "32.7%",
+            "right": "2.8%",
+            "bottom": "-0.2%"
+          },
+          "widgetId": "widget_126",
+          "setting": {
+            "lockParent": true,
+            "autoProps": {
+              "width": true,
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "3"
+      ],
+      "label": "Regular"
+    },
+    "layout_51": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_134",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_52": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_137",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_53": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 3,
+            "width": 6,
+            "height": "25.00px"
+          },
+          "widgetId": "widget_139",
+          "setting": {
+            "heightMode": "fit",
+            "autoProps": {
+              "height": "STRETCH"
+            },
+            "style": {
+              "alignSelf": "center"
+            }
+          }
+        }
+      }
+    },
+    "layout_54": {
+      "type": "ROW",
+      "label": "Default",
+      "order": [
+        "3"
+      ],
+      "content": {
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 1,
+            "width": 7,
+            "height": "131px"
+          },
+          "widgetId": "widget_144",
+          "setting": {
+            "heightMode": "fit"
+          }
+        }
+      }
+    }
+  },
+  "exbVersion": "1.4.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1366,
+        "height": 768
+      }
+    }
+  },
+  "template": "blankscrollable",
+  "attributes": {
+    "portalUrl": "https://who.maps.arcgis.com",
+    "clientId": "QtMTyt8yzAarZNU7",
+    "title": "snakebitewebsite",
+    "description": ""
+  },
+  "customTheme": {
+    "sharedThemeVariables": {
+      "header": {
+        "color": "#ffaa00"
+      },
+      "body": {},
+      "button": {},
+      "logo": {}
+    },
+    "typography": {
+      "fontSizeRoot": "100%",
+      "fontFamilyBase": "Calibri"
+    }
+  },
+  "widgets": {
+    "widget_11": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Species detailed information",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "0px"
+            },
+            "background": {
+              "color": "var(--light-100)",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE8",
+        "direction": "Vertical",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_11",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_12"
+        },
+        "HOVER": {
+          "LARGE": "layout_10"
+        }
+      }
+    },
+    "widget_23": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Scientific name",
+      "config": {
+        "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 20px;\"><exp data-uniqueid=\"efc13874_aa70_0db7_dbe8_9b785fd1dde1\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BScientific_Name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BScientific_Name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22Scientific_Name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{Scientific_Name}</span>﻿</exp> </strong></p>",
+        "placeholder": "<p style=\"line-height: 1;font-size: 20px; color: var(--dark-800);\">Card title</p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_23",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2"
+        },
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Scientific_Name"
+          ]
+        }
+      ]
+    },
+    "widget_24": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Main text",
+      "config": {
+        "text": "<p style=\"line-height: 1.8;\"><span style=\"color: var(--dark-800); font-size: 0.8125rem;\">Family Name:</span><strong> <exp data-uniqueid=\"e3bdebeb_9e0f_7320_2e16_0b69d48f04b7\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BFamily_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BFamily_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22Family_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Family_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\">Common Name:<strong>﻿</strong><strong style=\"color: var(--dark-800); font-size: 0.8125rem;\"><exp data-uniqueid=\"a6d27442_a6fb_77b3_bb9c_03cdea426532\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BList_of_Common_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_of_Common_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22List_of_Common_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{List_of_Common_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\"><span style=\"color: var(--dark-800); font-size: 0.8125rem;\">Risk Category:﻿ </span><strong><exp data-uniqueid=\"443f75c3_7672_d384_da20_1d1454002484\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BList_of_Category_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_of_Category_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22List_of_Category_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{List_of_Category_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\">List of Countries: <strong>(<exp data-uniqueid=\"e98eace3_28b5_c78a_26cd_06c2d5fbd5df\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BNumber_of_countries%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BNumber_of_countries%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22Number_of_countries%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿{Number_of_countries}﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>) -<exp data-uniqueid=\"a3de9f07_dcc6_2e04_09bb_9ae88f921b23\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BList_of_Countries%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_of_Countries%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22List_of_Countries%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿{List_of_Countries}﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\">List of Sub-Region: <strong><exp data-uniqueid=\"49d3fc9b_4463_14ef_628c_2a80d966439a\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BList_of_Sub_region%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_of_Sub_region%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22List_of_Sub_region%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{List_of_Sub_region}﻿﻿﻿﻿﻿</span>﻿</exp> <exp data-uniqueid=\"e00f628b_9eb2_1bbb_0e26_e7bd7a735c61\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BList_SubRegion%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_SubRegion%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22List_SubRegion%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\">Regions: <strong><exp data-uniqueid=\"b8c44c1d_79b4_223b_8c0d_d65267295c70\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BList_of_Region%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_of_Region%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22List_of_Region%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{List_of_Region}﻿﻿﻿</span>﻿</exp> <exp data-uniqueid=\"bc4752c2_c0a1_78f1_6e65_1dba96f43103\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BList_Region%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BList_Region%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22List_Region%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong></p><p style=\"line-height: 1.8;\">Impacted human population in 2020: <strong><exp data-uniqueid=\"d491f984_6605_8c4e_96ba_6c2c577fadef\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BImpacted_Population%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BImpacted_Population%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22Impacted_Population%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{Impacted_Population}</span>﻿</exp> ; </strong>Population source: ﻿<strong><exp data-uniqueid=\"da5d6780_99c7_0db5_35bc_5a7302291bf2\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BPopulation_source%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPopulation_source%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection%22%2C%22jimuFieldName%22%3A%22Population_source%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Population_source}﻿﻿</span>﻿</exp></strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800); font-size: 0.8125rem;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_24",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2"
+        },
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Family_name",
+            "List_of_Common_name",
+            "List_of_Category_name",
+            "Number_of_countries",
+            "List_of_Countries",
+            "List_of_Sub_region",
+            "List_of_Region",
+            "Impacted_Population",
+            "Population_source"
+          ]
+        }
+      ]
+    },
+    "widget_26": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Species map",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Species Map\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_3"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--dark-100)",
+                "fillType": "fit"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "0px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_26",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "dataViewId": "selection"
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_34": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Map section",
+      "config": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              10,
+              0,
+              10,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_34",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_15"
+        }
+      },
+      "style": {
+        "border": {
+          "type": "solid",
+          "width": "0px"
+        },
+        "background": {
+          "color": "#ffffff",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_35": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.4.0",
+      "label": "Main map",
+      "config": {
+        "toolConifg": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canFullScreen": true,
+          "canBaseMap": true,
+          "canScaleBar": true,
+          "canLayers": true,
+          "canSelect": true,
+          "canSelectState": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 73957190.948944,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": 1625526.8294999725,
+              "y": 2133495.6793499016
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -10897915.884739975,
+            "ymin": -2699770.493177078,
+            "xmax": 14148969.54373992,
+            "ymax": 6966761.851876881
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "initialMapDataSourceID": "dataSource_3",
+        "selectionHighlightColor": "#ff0000",
+        "disableScroll": false,
+        "disablePopUp": false,
+        "layoutIndex": 1
+      },
+      "id": "widget_35",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_16"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_3",
+          "mainDataSourceId": "dataSource_3"
+        }
+      ],
+      "style": {
+        "border": {
+          "type": "solid",
+          "color": "var(--light-400)",
+          "width": "1px"
+        }
+      }
+    },
+    "widget_36": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Table section",
+      "config": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              10,
+              0,
+              10,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_36",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_17"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_37": {
+      "uri": "widgets/common/table/",
+      "version": "1.4.0",
+      "label": "AVN, MAN,PUB TABLE",
+      "config": {
+        "layersConfig": [
+          {
+            "id": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out_Dev-14",
+            "name": "Antivenom & Manufacturer's",
+            "useDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_7"
+            },
+            "allFields": [
+              {
+                "jimuName": "OBJECTID",
+                "name": "OBJECTID",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeOID",
+                "alias": "OBJECTID"
+              },
+              {
+                "jimuName": "Scientific_name",
+                "name": "Scientific_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_name"
+              },
+              {
+                "jimuName": "Anivenom_name",
+                "name": "Anivenom_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Anivenom_name"
+              },
+              {
+                "jimuName": "Manufacturer_name",
+                "name": "Manufacturer_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Manufacturer_name"
+              },
+              {
+                "jimuName": "Manufacturer_Country",
+                "name": "Manufacturer_Country",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Manufacturer_Country"
+              },
+              {
+                "jimuName": "CODE_AVN",
+                "name": "CODE_AVN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_AVN"
+              },
+              {
+                "jimuName": "CODE_SSN",
+                "name": "CODE_SSN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_SSN"
+              },
+              {
+                "jimuName": "CODE_MAN",
+                "name": "CODE_MAN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_MAN"
+              },
+              {
+                "jimuName": "AnvPkgInsUrl",
+                "name": "AnvPkgInsUrl",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "AnvPkgInsUrl"
+              },
+              {
+                "jimuName": "AvnComment",
+                "name": "AvnComment",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "AvnComment"
+              },
+              {
+                "jimuName": "AvnSdate",
+                "name": "AvnSdate",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "AvnSdate"
+              },
+              {
+                "jimuName": "AvnEdate",
+                "name": "AvnEdate",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "AvnEdate"
+              },
+              {
+                "jimuName": "WHOData",
+                "name": "WHOData",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "WHOData"
+              }
+            ],
+            "tableFields": [
+              {
+                "jimuName": "Scientific_name",
+                "name": "Scientific_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_name"
+              },
+              {
+                "jimuName": "Anivenom_name",
+                "name": "Anivenom_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Anivenom_name"
+              },
+              {
+                "jimuName": "Manufacturer_name",
+                "name": "Manufacturer_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Manufacturer_name"
+              },
+              {
+                "jimuName": "Manufacturer_Country",
+                "name": "Manufacturer_Country",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Manufacturer_Country"
+              },
+              {
+                "jimuName": "CODE_AVN",
+                "name": "CODE_AVN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_AVN"
+              },
+              {
+                "jimuName": "CODE_SSN",
+                "name": "CODE_SSN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_SSN"
+              },
+              {
+                "jimuName": "CODE_MAN",
+                "name": "CODE_MAN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_MAN"
+              },
+              {
+                "jimuName": "AnvPkgInsUrl",
+                "name": "AnvPkgInsUrl",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "AnvPkgInsUrl"
+              },
+              {
+                "jimuName": "AvnComment",
+                "name": "AvnComment",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "AvnComment"
+              },
+              {
+                "jimuName": "WHOData",
+                "name": "WHOData",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "WHOData"
+              }
+            ],
+            "enableAttachements": false,
+            "enableEdit": false,
+            "allowCsv": false,
+            "enableSearch": false,
+            "searchFields": "",
+            "enableRefresh": true,
+            "enableSelect": true,
+            "selectMode": "SINGLE"
+          },
+          {
+            "id": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out-12",
+            "name": "Publications",
+            "useDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "rootDataSourceId": "dataSource_8"
+            },
+            "allFields": [
+              {
+                "jimuName": "OBJECTID",
+                "name": "OBJECTID",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeOID",
+                "alias": "OBJECTID"
+              },
+              {
+                "jimuName": "Scientific_name",
+                "name": "Scientific_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_name"
+              },
+              {
+                "jimuName": "Title_of_Publication",
+                "name": "Title_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Title_of_Publication"
+              },
+              {
+                "jimuName": "Author_of_Publication",
+                "name": "Author_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Author_of_Publication"
+              },
+              {
+                "jimuName": "Journal_of_Publication",
+                "name": "Journal_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Journal_of_Publication"
+              },
+              {
+                "jimuName": "Volume_of_Publication",
+                "name": "Volume_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Volume_of_Publication"
+              },
+              {
+                "jimuName": "Page_numbers",
+                "name": "Page_numbers",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Page_numbers"
+              },
+              {
+                "jimuName": "Year_of_Publication",
+                "name": "Year_of_Publication",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeSmallInteger",
+                "alias": "Year_of_Publication"
+              },
+              {
+                "jimuName": "Reference_of_Publication",
+                "name": "Reference_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Reference_of_Publication"
+              },
+              {
+                "jimuName": "PubSdate",
+                "name": "PubSdate",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "PubSdate"
+              },
+              {
+                "jimuName": "PubEdate",
+                "name": "PubEdate",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "PubEdate"
+              },
+              {
+                "jimuName": "Publication_url",
+                "name": "Publication_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Publication_url"
+              },
+              {
+                "jimuName": "Code_Ssn",
+                "name": "Code_Ssn",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Code_Ssn"
+              },
+              {
+                "jimuName": "Code_Pub",
+                "name": "Code_Pub",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Code_Pub"
+              }
+            ],
+            "tableFields": [
+              {
+                "jimuName": "Scientific_name",
+                "name": "Scientific_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_name"
+              },
+              {
+                "jimuName": "Title_of_Publication",
+                "name": "Title_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Title_of_Publication"
+              },
+              {
+                "jimuName": "Author_of_Publication",
+                "name": "Author_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Author_of_Publication"
+              },
+              {
+                "jimuName": "Journal_of_Publication",
+                "name": "Journal_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Journal_of_Publication"
+              },
+              {
+                "jimuName": "Volume_of_Publication",
+                "name": "Volume_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Volume_of_Publication"
+              },
+              {
+                "jimuName": "Page_numbers",
+                "name": "Page_numbers",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Page_numbers"
+              },
+              {
+                "jimuName": "Year_of_Publication",
+                "name": "Year_of_Publication",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeSmallInteger",
+                "alias": "Year_of_Publication"
+              },
+              {
+                "jimuName": "Reference_of_Publication",
+                "name": "Reference_of_Publication",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Reference_of_Publication"
+              },
+              {
+                "jimuName": "Publication_url",
+                "name": "Publication_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Publication_url"
+              },
+              {
+                "jimuName": "Code_Ssn",
+                "name": "Code_Ssn",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Code_Ssn"
+              },
+              {
+                "jimuName": "Code_Pub",
+                "name": "Code_Pub",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Code_Pub"
+              }
+            ],
+            "enableAttachements": false,
+            "enableEdit": false,
+            "allowCsv": false,
+            "enableSearch": false,
+            "searchFields": "",
+            "enableRefresh": false,
+            "enableSelect": false,
+            "selectMode": "SINGLE"
+          },
+          {
+            "id": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-15",
+            "name": "Snake species summary table",
+            "useDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "allFields": [
+              {
+                "jimuName": "OBJECTID",
+                "name": "OBJECTID",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeOID",
+                "alias": "OBJECTID"
+              },
+              {
+                "jimuName": "Scientific_Name",
+                "name": "Scientific_Name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_Name"
+              },
+              {
+                "jimuName": "Family_name",
+                "name": "Family_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Family_name"
+              },
+              {
+                "jimuName": "List_of_Countries",
+                "name": "List_of_Countries",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Countries"
+              },
+              {
+                "jimuName": "Number_of_countries",
+                "name": "Number_of_countries",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeInteger",
+                "alias": "Number_of_countries"
+              },
+              {
+                "jimuName": "List_of_Sub_region",
+                "name": "List_of_Sub_region",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Sub_region"
+              },
+              {
+                "jimuName": "List_of_Region",
+                "name": "List_of_Region",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Region"
+              },
+              {
+                "jimuName": "List_of_Common_name",
+                "name": "List_of_Common_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Common_name"
+              },
+              {
+                "jimuName": "List_of_Manufacturers",
+                "name": "List_of_Manufacturers",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Manufacturers"
+              },
+              {
+                "jimuName": "List_of_Antivenom",
+                "name": "List_of_Antivenom",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Antivenom"
+              },
+              {
+                "jimuName": "List_of_Publications",
+                "name": "List_of_Publications",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Publications"
+              },
+              {
+                "jimuName": "List_of_Category_name",
+                "name": "List_of_Category_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Category_name"
+              },
+              {
+                "jimuName": "Photo1_thumb_url",
+                "name": "Photo1_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo1_thumb_url"
+              },
+              {
+                "jimuName": "Photo2_thumb_url",
+                "name": "Photo2_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo2_thumb_url"
+              },
+              {
+                "jimuName": "Photo3_thumb_url",
+                "name": "Photo3_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo3_thumb_url"
+              },
+              {
+                "jimuName": "Photo4_thumb_url",
+                "name": "Photo4_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo4_thumb_url"
+              },
+              {
+                "jimuName": "Photo5_thumb_url",
+                "name": "Photo5_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo5_thumb_url"
+              },
+              {
+                "jimuName": "Photo6_thumb_url",
+                "name": "Photo6_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo6_thumb_url"
+              },
+              {
+                "jimuName": "Photo7_thumb_url",
+                "name": "Photo7_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo7_thumb_url"
+              },
+              {
+                "jimuName": "Photo8_thumb_url",
+                "name": "Photo8_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo8_thumb_url"
+              },
+              {
+                "jimuName": "Photo9_thumb_url",
+                "name": "Photo9_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo9_thumb_url"
+              },
+              {
+                "jimuName": "Photo10_thumb_url",
+                "name": "Photo10_thumb_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo10_thumb_url"
+              },
+              {
+                "jimuName": "Photo_1",
+                "name": "Photo_1",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_1"
+              },
+              {
+                "jimuName": "Photo_2",
+                "name": "Photo_2",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_2"
+              },
+              {
+                "jimuName": "Photo_3",
+                "name": "Photo_3",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_3"
+              },
+              {
+                "jimuName": "Photo_4",
+                "name": "Photo_4",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_4"
+              },
+              {
+                "jimuName": "Photo_5",
+                "name": "Photo_5",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_5"
+              },
+              {
+                "jimuName": "Photo_6",
+                "name": "Photo_6",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_6"
+              },
+              {
+                "jimuName": "Photo_7",
+                "name": "Photo_7",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_7"
+              },
+              {
+                "jimuName": "Photo_8",
+                "name": "Photo_8",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_8"
+              },
+              {
+                "jimuName": "Photo_9",
+                "name": "Photo_9",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_9"
+              },
+              {
+                "jimuName": "Photo_10",
+                "name": "Photo_10",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_10"
+              },
+              {
+                "jimuName": "Photo_1_pdf_url",
+                "name": "Photo_1_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_1_pdf_url"
+              },
+              {
+                "jimuName": "Photo_2_pdf_url",
+                "name": "Photo_2_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_2_pdf_url"
+              },
+              {
+                "jimuName": "Photo_3_pdf_url",
+                "name": "Photo_3_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_3_pdf_url"
+              },
+              {
+                "jimuName": "Photo_4_pdf_url",
+                "name": "Photo_4_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_4_pdf_url"
+              },
+              {
+                "jimuName": "Photo_5_pdf_url",
+                "name": "Photo_5_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_5_pdf_url"
+              },
+              {
+                "jimuName": "Photo_6_pdf_url",
+                "name": "Photo_6_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_6_pdf_url"
+              },
+              {
+                "jimuName": "Photo_7_pdf_url",
+                "name": "Photo_7_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_7_pdf_url"
+              },
+              {
+                "jimuName": "Photo_8_pdf_url",
+                "name": "Photo_8_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_8_pdf_url"
+              },
+              {
+                "jimuName": "Photo_9_pdf_url",
+                "name": "Photo_9_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_9_pdf_url"
+              },
+              {
+                "jimuName": "Photo_10_pdf_url",
+                "name": "Photo_10_pdf_url",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo_10_pdf_url"
+              },
+              {
+                "jimuName": "Photo1_owner",
+                "name": "Photo1_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo1_owner"
+              },
+              {
+                "jimuName": "Photo2_owner",
+                "name": "Photo2_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo2_owner"
+              },
+              {
+                "jimuName": "Photo3_owner",
+                "name": "Photo3_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo3_owner"
+              },
+              {
+                "jimuName": "Photo4_owner",
+                "name": "Photo4_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo4_owner"
+              },
+              {
+                "jimuName": "Photo5_owner",
+                "name": "Photo5_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo5_owner"
+              },
+              {
+                "jimuName": "Photo6_owner",
+                "name": "Photo6_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo6_owner"
+              },
+              {
+                "jimuName": "Photo7_owner",
+                "name": "Photo7_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo7_owner"
+              },
+              {
+                "jimuName": "Photo8_owner",
+                "name": "Photo8_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo8_owner"
+              },
+              {
+                "jimuName": "Photo9_owner",
+                "name": "Photo9_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo9_owner"
+              },
+              {
+                "jimuName": "Photo10_owner",
+                "name": "Photo10_owner",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Photo10_owner"
+              },
+              {
+                "jimuName": "Map_jpeg",
+                "name": "Map_jpeg",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Map_jpeg"
+              },
+              {
+                "jimuName": "Map_pdf",
+                "name": "Map_pdf",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Map_pdf"
+              },
+              {
+                "jimuName": "GalleryURL",
+                "name": "GalleryURL",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "GalleryURL"
+              },
+              {
+                "jimuName": "Impacted_Population",
+                "name": "Impacted_Population",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeDouble",
+                "alias": "Impacted_Population"
+              },
+              {
+                "jimuName": "Population_year",
+                "name": "Population_year",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeSmallInteger",
+                "alias": "Population_year"
+              },
+              {
+                "jimuName": "Population_source",
+                "name": "Population_source",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Population_source"
+              },
+              {
+                "jimuName": "CODE_SSN",
+                "name": "CODE_SSN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_SSN"
+              }
+            ],
+            "tableFields": [
+              {
+                "jimuName": "Scientific_Name",
+                "name": "Scientific_Name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Scientific_Name"
+              },
+              {
+                "jimuName": "Family_name",
+                "name": "Family_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Family_name"
+              },
+              {
+                "jimuName": "List_of_Countries",
+                "name": "List_of_Countries",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Countries"
+              },
+              {
+                "jimuName": "Number_of_countries",
+                "name": "Number_of_countries",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeInteger",
+                "alias": "Number_of_countries"
+              },
+              {
+                "jimuName": "List_of_Sub_region",
+                "name": "List_of_Sub_region",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Sub_region"
+              },
+              {
+                "jimuName": "List_of_Region",
+                "name": "List_of_Region",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Region"
+              },
+              {
+                "jimuName": "List_of_Common_name",
+                "name": "List_of_Common_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Common_name"
+              },
+              {
+                "jimuName": "List_of_Manufacturers",
+                "name": "List_of_Manufacturers",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Manufacturers"
+              },
+              {
+                "jimuName": "List_of_Antivenom",
+                "name": "List_of_Antivenom",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Antivenom"
+              },
+              {
+                "jimuName": "List_of_Publications",
+                "name": "List_of_Publications",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Publications"
+              },
+              {
+                "jimuName": "List_of_Category_name",
+                "name": "List_of_Category_name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "List_of_Category_name"
+              },
+              {
+                "jimuName": "Population_year",
+                "name": "Population_year",
+                "type": "NUMBER",
+                "esriType": "esriFieldTypeSmallInteger",
+                "alias": "Population_year"
+              },
+              {
+                "jimuName": "Population_source",
+                "name": "Population_source",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Population_source"
+              },
+              {
+                "jimuName": "CODE_SSN",
+                "name": "CODE_SSN",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "CODE_SSN"
+              }
+            ],
+            "enableAttachements": false,
+            "enableEdit": false,
+            "allowCsv": false,
+            "enableSearch": false,
+            "searchFields": "",
+            "enableRefresh": true,
+            "enableSelect": true,
+            "selectMode": "SINGLE"
+          }
+        ],
+        "arrangeType": "TABS"
+      },
+      "id": "widget_37",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_7"
+        },
+        {
+          "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+          "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+          "rootDataSourceId": "dataSource_8"
+        },
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2"
+        }
+      ],
+      "enableDataAction": true,
+      "style": {
+        "border": {
+          "type": "solid",
+          "width": "0px"
+        }
+      },
+      "dataActions": {
+        "panTo": {
+          "enabled": false
+        },
+        "showOnMap": {
+          "enabled": false
+        },
+        "zoomToFeature": {
+          "enabled": false
+        }
+      }
+    },
+    "widget_38": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Additional photos",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "Additional photos",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Additional photos\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_4"
+          },
+          "text": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--dark-100)",
+                "fillType": "fit"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "0px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_38",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "dataViewId": "selection"
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_65": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Species main photo",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M0 0v28h28V0H0z",
+              "cropShape": "rectangle"
+            }
+          },
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_1}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_1}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev-selection",
+                "jimuFieldName": "Photo_1",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_65",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_1"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_68": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 12",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 24px;\">﻿Species Name</strong></p>",
+        "placeholder": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_68"
+    },
+    "widget_69": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 7",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_69/1622523464763.png",
+            "originalUrl": "${appResourceUrl}/images/widget_69/1622523464763.png",
+            "fileName": "1622523464763.png",
+            "originalName": "BA_0531.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1622523464763",
+            "isUseCompress": false
+          },
+          "imageFillMode": "FIT",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_69",
+      "useDataSourcesEnabled": false
+    },
+    "widget_70": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 9",
+      "config": {
+        "functionConfig": {
+          "text": "Download map (pdf)",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_70",
+      "useDataSources": []
+    },
+    "widget_73": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 14",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--dark-800); font-size: 20px;\">﻿</strong><strong style=\"font-size: 20px;\"><exp data-uniqueid=\"75a0b283_2077_ac77_e6ec_8eb4c85af697\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BScientific_Name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BScientific_Name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Scientific_Name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Scientific_Name}﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_73",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Scientific_Name"
+          ]
+        }
+      ]
+    },
+    "widget_74": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_74",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_29"
+        },
+        "HOVER": {
+          "LARGE": "layout_30"
+        }
+      }
+    },
+    "widget_91": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_1}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_1}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo_1",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_91",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_1"
+          ]
+        }
+      ]
+    },
+    "widget_93": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 7px; color: var(--dark-800);\"> Credit: </strong><strong style=\"font-size: 7px;\"><exp data-uniqueid=\"0b7a9237_1d9f_3e67_e192_73b0a4511275\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto1_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto1_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo1_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Photo1_owner}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_93",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo1_owner"
+          ]
+        }
+      ]
+    },
+    "widget_94": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1 copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_94",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_31"
+        },
+        "HOVER": {
+          "LARGE": "layout_32"
+        }
+      }
+    },
+    "widget_95": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10 copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_2}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_2}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo_2",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_95",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_2"
+          ]
+        }
+      ]
+    },
+    "widget_96": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1 copy copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_96",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_33"
+        },
+        "HOVER": {
+          "LARGE": "layout_34"
+        }
+      }
+    },
+    "widget_97": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10 copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_3}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_3}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo_3",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_97",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_3"
+          ]
+        }
+      ]
+    },
+    "widget_98": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1 copy 2",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_98",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_35"
+        },
+        "HOVER": {
+          "LARGE": "layout_36"
+        }
+      }
+    },
+    "widget_99": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10 copy 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_4}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_4}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo_4",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_99",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_4"
+          ]
+        }
+      ]
+    },
+    "widget_100": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1 copy copy 2",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_100",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_37"
+        },
+        "HOVER": {
+          "LARGE": "layout_38"
+        }
+      }
+    },
+    "widget_101": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10 copy copy 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo5_thumb_url}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo5_thumb_url}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo5_thumb_url",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_101",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo5_thumb_url"
+          ]
+        }
+      ]
+    },
+    "widget_102": {
+      "uri": "widgets/common/card/",
+      "version": "1.4.0",
+      "label": "Card 1 copy copy copy",
+      "config": {
+        "REGULAR": {
+          "enable": true,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-100)",
+              "width": "1px"
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "HOVER": {
+          "enable": false,
+          "backgroundStyle": {
+            "border": {
+              "type": "solid",
+              "color": "var(--light-400)",
+              "width": "1px"
+            },
+            "boxShadow": {
+              "offsetX": "0px",
+              "offsetY": "0px",
+              "blur": "0px",
+              "spread": "0px",
+              "color": ""
+            },
+            "background": {
+              "color": "",
+              "fillType": "fit",
+              "image": {
+                "url": ""
+              }
+            }
+          }
+        },
+        "itemStyle": "STYLE6",
+        "direction": "Horizontal",
+        "isItemStyleConfirm": true,
+        "isOpenAdvabceSetting": false,
+        "isInitialed": true,
+        "transitionInfo": {
+          "transition": {
+            "type": "None",
+            "direction": "H"
+          },
+          "oneByOneEffect": null
+        }
+      },
+      "id": "widget_102",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_39"
+        },
+        "HOVER": {
+          "LARGE": "layout_40"
+        }
+      }
+    },
+    "widget_103": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 10 copy copy copy",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_6}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_6}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                "jimuFieldName": "Photo_6",
+                "isFromRepeatedDataSourceContext": false
+              }
+            ]
+          },
+          "altTextWithAttachmentName": null,
+          "toolTipWithAttachmentName": null,
+          "isSelectedFromRepeatedDataSourceContext": null,
+          "useDataSourceForMainDataAndViewSelector": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_103",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_6"
+          ]
+        }
+      ]
+    },
+    "widget_104": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Download photo (pdf)\""
+              }
+            ]
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "",
+            "expression": {
+              "name": "{Photo_1_pdf_url}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Photo_1_pdf_url}",
+                  "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                  "jimuFieldName": "Photo_1_pdf_url",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            }
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_104",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_1_pdf_url"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_105": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10 copy",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Download photo (pdf)\""
+              }
+            ]
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "",
+            "expression": {
+              "name": "{Photo_2_pdf_url}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Photo_2_pdf_url}",
+                  "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                  "jimuFieldName": "Photo_2_pdf_url",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            }
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_105",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_2_pdf_url"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_106": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10 copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "Download photo (pdf)",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_106",
+      "useDataSources": []
+    },
+    "widget_107": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10 copy copy copy",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Download photo (pdf)\""
+              }
+            ]
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "",
+            "expression": {
+              "name": "{Photo_6_pdf_url}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Photo_6_pdf_url}",
+                  "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                  "jimuFieldName": "Photo_6_pdf_url",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            }
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_107",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_6_pdf_url"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_108": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10 copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Download photo (pdf)\""
+              }
+            ]
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "",
+            "expression": {
+              "name": "{Photo_5_pdf_url}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Photo_5_pdf_url}",
+                  "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                  "jimuFieldName": "Photo_5_pdf_url",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            }
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_108",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_5_pdf_url"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_109": {
+      "uri": "widgets/common/button/",
+      "version": "1.4.0",
+      "label": "Button 10 copy copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Download photo (pdf)\""
+              }
+            ]
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2c.291 0 .527.231.527.516v9.508L12.1 8.527a.535.535 0 01.746 0 .508.508 0 010 .73L8 14 3.154 9.257a.508.508 0 010-.73.535.535 0 01.746 0l3.573 3.497V2.516C7.473 2.231 7.709 2 8 2z\" fill=\"#000\" fill-rule=\"nonzero\"></path></svg>",
+            "position": "LEFT"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "",
+            "expression": {
+              "name": "{Photo_4_pdf_url}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Photo_4_pdf_url}",
+                  "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+                  "jimuFieldName": "Photo_4_pdf_url",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            }
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#076fe5",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 12
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "#005eca",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "undefinedpx"
+              },
+              "text": {
+                "size": "10px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 10
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_109",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_4_pdf_url"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_110": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21 copy",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 12px; color: var(--dark-800);\"> </strong><strong style=\"font-size: 12px;\"><exp data-uniqueid=\"f2ab004c_e22d_ed1d_e5f3_6fd29baee81c\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto4_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto4_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo4_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Photo4_owner}﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_110",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo4_owner"
+          ]
+        }
+      ]
+    },
+    "widget_111": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21 copy 2",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"color: var(--dark-800); font-size: 12px;\"> </strong><strong style=\"font-size: 12px;\"><exp data-uniqueid=\"570c86d1_d315_0ffd_e252_2e5d75d70ee4\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto2_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto2_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo2_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Photo2_owner}﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_111",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo2_owner"
+          ]
+        }
+      ]
+    },
+    "widget_112": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21 copy 2 copy",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 12px; color: var(--dark-800);\"> </strong><strong style=\"font-size: 12px;\"><exp data-uniqueid=\"cd52acde_24a4_1079_4838_c991006d0d75\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto3_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto3_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo3_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{Photo3_owner}﻿﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_112",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo3_owner"
+          ]
+        }
+      ]
+    },
+    "widget_113": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21 copy copy",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 12px;\"><exp data-uniqueid=\"e0074a38_ce81_d448_09dc_411a13a24ad5\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto5_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto5_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo5_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{Photo5_owner}﻿﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_113",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo5_owner"
+          ]
+        }
+      ]
+    },
+    "widget_114": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 21 copy copy copy",
+      "config": {
+        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 12px;\"><exp data-uniqueid=\"7840f49f_7063_2953_7acb_9191768ea9e4\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out\" data-expression=\"%7B%22name%22%3A%22%7BPhoto6_owner%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPhoto6_owner%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection%22%2C%22jimuFieldName%22%3A%22Photo6_owner%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Photo6_owner}﻿﻿</span>﻿</exp> </strong></p>",
+        "placeholder": "<p><span style=\"font-size: 20px; color: var(--dark-800);\">Card title</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_114",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo6_owner"
+          ]
+        }
+      ]
+    },
+    "widget_115": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Listing tab",
+      "config": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_115",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_41"
+        }
+      }
+    },
+    "widget_117": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Snake species information tab",
+      "config": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_117",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_42"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_119": {
+      "uri": "widgets/common/list/",
+      "version": "1.4.0",
+      "label": "Main list",
+      "config": {
+        "maxItems": 100,
+        "space": 0,
+        "itemsPerPage": 20,
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "pageStyle": "MULTIPAGE",
+        "itemStyle": "STYLE2",
+        "hoverType": "HOVER0",
+        "selectedStyle": "STYLE0",
+        "differentOddEven": false,
+        "scrollBarOpen": true,
+        "direction": "HORIZON",
+        "alignType": "CENTER",
+        "scrollStep": 2,
+        "cardConfigs": {
+          "REGULAR": {
+            "cardSize": {
+              "LARGE": {
+                "height": 173,
+                "width": 170.56
+              }
+            },
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "dotted",
+                "color": "var(--light-100)",
+                "width": "0.1px"
+              },
+              "background": {
+                "fillType": "fill",
+                "image": {
+                  "url": ""
+                }
+              }
+            }
+          },
+          "HOVER": {
+            "cardSize": {
+              "LARGE": {
+                "height": 173,
+                "width": 170.56
+              }
+            },
+            "enable": false,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            }
+          },
+          "SELECTED": {
+            "cardSize": {
+              "LARGE": {
+                "height": 173,
+                "width": 170.56
+              }
+            },
+            "backgroundStyle": {
+              "border": {
+                "type": "dotted",
+                "color": "var(--danger-400)",
+                "width": "2px"
+              },
+              "background": {
+                "fillType": "fill",
+                "image": {
+                  "url": ""
+                }
+              }
+            },
+            "selectionMode": "SINGLE"
+          }
+        },
+        "style": {
+          "id": "default"
+        },
+        "filters": null,
+        "navigatorOpen": true,
+        "lockItemRatio": false,
+        "sortOpen": false
+      },
+      "id": "widget_119",
+      "layouts": {
+        "REGULAR": {
+          "LARGE": "layout_48"
+        },
+        "SELECTED": {
+          "LARGE": "layout_45"
+        },
+        "HOVER": {
+          "LARGE": "layout_46"
+        }
+      },
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": []
+        }
+      ],
+      "enableDataAction": false,
+      "dataActions": {
+        "viewInTable": {
+          "actions": {
+            "widget_37": {
+              "enabled": true
+            }
+          }
+        }
+      }
+    },
+    "widget_123": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 12",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": null,
+          "dynamicUrlType": null,
+          "imgSourceType": "BYDYNAMICURL",
+          "srcExpression": {
+            "name": "{Photo_1}",
+            "parts": [
+              {
+                "type": "FIELD",
+                "exp": "{Photo_1}",
+                "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+                "jimuFieldName": "Photo_1",
+                "isFromRepeatedDataSourceContext": true
+              }
+            ]
+          },
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_123",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Photo_1"
+          ]
+        }
+      ]
+    },
+    "widget_126": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 24",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 10px;\">﻿</span> <exp data-uniqueid=\"52b7f39c_eac1_1406_177e_5f0baea35bfa\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BScientific_Name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BScientific_Name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev%22%2C%22jimuFieldName%22%3A%22Scientific_Name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Scientific_Name}</span>﻿</exp> </p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_126",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Scientific_Name"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_134": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Header Image",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_134/1623831151677.PNG",
+            "originalUrl": "${appResourceUrl}/images/widget_134/1623831151677.PNG",
+            "fileName": "1623831151677.PNG",
+            "originalName": "snakebite header.PNG",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1623831151677",
+            "isUseCompress": false
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_134"
+    },
+    "widget_135": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 24 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 10px; color: var(--danger-300);\">﻿</span><span style=\"color: var(--danger-300);\"><exp data-uniqueid=\"07231131_34cb_db2d_17f2_47190f8b4fad\" data-dsid=\"dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev\" data-expression=\"%7B%22name%22%3A%22%7BScientific_Name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BScientific_Name%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev%22%2C%22jimuFieldName%22%3A%22Scientific_Name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Scientific_Name}﻿</span>﻿</exp> </span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_135",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "Scientific_Name"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_137": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Footer Image",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_137/1623860787444.PNG",
+            "originalUrl": "${appResourceUrl}/images/widget_137/1623860787444.PNG",
+            "fileName": "1623860787444.PNG",
+            "originalName": "snakebite footer.PNG",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1623860787444",
+            "isUseCompress": false
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_137"
+    },
+    "widget_138": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Header",
+      "config": {
+        "space": 1,
+        "style": {
+          "padding": {
+            "number": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_138",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_53"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "#1b88bb",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_139": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Header text",
+      "config": {
+        "text": "<p style=\"text-align: center; line-height: 1.5;\"><span style=\"font-size: 15px; font-family: Arial; color: rgb(255, 255, 255);\">WHO Snakebite Information &amp; Geospatial Data Platform</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": false
+        }
+      },
+      "id": "widget_139",
+      "style": {
+        "background": {
+          "fillType": "center",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_140": {
+      "uri": "widgets/layout/row/",
+      "version": "1.4.0",
+      "label": "Block 1",
+      "config": {
+        "space": 0,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          }
+        }
+      },
+      "id": "widget_140",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_54"
+        }
+      }
+    },
+    "widget_144": {
+      "uri": "widgets/filter-multiple-ds/",
+      "version": "1.4.0",
+      "label": "Filter 2",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "INLINE",
+        "triggerType": "BUTTON",
+        "omitInternalStyle": false,
+        "filterItems": [
+          {
+            "icon": {
+              "svg": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\"><path d=\"M15 0v1.53h-.062L9.556 6.825v7.982a.5.5 0 01-.851.356l-2.26-2.224V6.818L1.07 1.53H1V0h14zm-1 1H2v.042l5.444 5.357v6.121l1.111 1.093V6.406L14 1.05V1z\" fill=\"#C5C5C5\" fill-rule=\"nonzero\"></path><circle cx=\"3\" cy=\"3\" r=\"3\" transform=\"translate(15 -5)\" fill=\"#050505\"></circle></g></svg>",
+              "properties": {
+                "color": "",
+                "filename": "filter-16.svg",
+                "originalName": "filter-16.svg",
+                "inlineSvg": true,
+                "path": [
+                  "general",
+                  "filter"
+                ],
+                "size": 14
+              }
+            },
+            "name": "GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out_Dev",
+            "useDataSource": {
+              "dataSourceId": "dataSource_9-GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_9-GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_9",
+              "fields": [
+                "Scientific_Name",
+                "Common_Name",
+                "Country_Name"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "Scientific_Name",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Scientific Name",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "Common_Name",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Common Name",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                },
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "Country_Name",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "SIMPLE_SELECT",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Country Name",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "ALL"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Scientific_Name = ?) and (Common_Name = ?) and (Country_Name = ?)"
+            },
+            "autoApplyWhenWidgetOpen": false,
+            "collapseFilterExprs": false
+          }
+        ],
+        "additionalDataSource": {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2"
+        }
+      },
+      "id": "widget_144",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_2"
+        },
+        {
+          "dataSourceId": "dataSource_9-GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out_Dev",
+          "mainDataSourceId": "dataSource_9-GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out_Dev",
+          "rootDataSourceId": "dataSource_9",
+          "fields": [
+            "Common_Name",
+            "Country_Name",
+            "Scientific_Name"
+          ]
+        }
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_3": {
+      "id": "dialog_3",
+      "mode": "FIXED",
+      "sizeMode": {
+        "LARGE": {
+          "position": "CENTER",
+          "width": "900px",
+          "height": "600px",
+          "aspectRatio": false
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fit",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_23"
+      },
+      "index": 0,
+      "isSplash": false,
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null,
+          "configType": "DEFAULT"
+        }
+      },
+      "oneByOneEffect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      },
+      "label": "Static Maps"
+    },
+    "dialog_4": {
+      "id": "dialog_4",
+      "mode": "FIXED",
+      "sizeMode": {
+        "LARGE": {
+          "position": "CENTER",
+          "width": "900px",
+          "height": "500px",
+          "aspectRatio": false
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fit",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_24"
+      },
+      "index": 1,
+      "isSplash": false,
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "FADE_IN",
+        "option": {
+          "direction": null,
+          "configType": "DEFAULT"
+        }
+      },
+      "oneByOneEffect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      },
+      "label": "Additional photos"
+    }
+  },
+  "dataSources": {
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "FEATURE_SERVICE",
+      "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Main_experience_tbl_uvw_out/FeatureServer",
+      "portalUrl": "https://WHO.maps.arcgis.com",
+      "itemId": "09a9b18f20e14649b729fca911204ca3",
+      "childDataSourceJsons": {
+        "GEODB.GEODB_Products.Main_experience_tbl_uvw_out": {
+          "id": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Main_experience_tbl_uvw_out/FeatureServer/0",
+          "layerId": "0",
+          "portalUrl": "https://WHO.maps.arcgis.com",
+          "itemId": "09a9b18f20e14649b729fca911204ca3",
+          "disableExport": false,
+          "dataViews": {
+            "no_selection": {
+              "id": "no_selection",
+              "label": "View for empty selection",
+              "orderBy": [
+                {
+                  "jimuFieldName": "Scientific_Name",
+                  "order": "ASC"
+                }
+              ]
+            }
+          },
+          "query": {
+            "id": "default",
+            "label": "GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+            "refreshInterval": 300
+          }
+        },
+        "GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev": {
+          "id": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Main_experience_tbl_uvw_out/FeatureServer/0",
+          "layerId": "0",
+          "portalUrl": "https://WHO.maps.arcgis.com",
+          "itemId": "09a9b18f20e14649b729fca911204ca3",
+          "dataViews": {
+            "no_selection": {
+              "id": "no_selection",
+              "label": "View for empty selection",
+              "orderBy": [
+                {
+                  "jimuFieldName": "Scientific_Name",
+                  "order": "ASC"
+                }
+              ],
+              "pageSize": 1000
+            }
+          }
+        }
+      }
+    },
+    "dataSource_3": {
+      "type": "WEB_MAP",
+      "itemId": "4b4a620e2a0e428ebf22679f02ea05ad",
+      "id": "dataSource_3",
+      "portalUrl": "https://WHO.maps.arcgis.com",
+      "childDataSourceJsons": {
+        "179bd1e2284-layer-3": {
+          "id": "dataSource_3-179bd1e2284-layer-3",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Features_Expereince_uvw_fea_out/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "d18c73a133ed49f7b6efce72ff5f19bf",
+          "geometryType": "esriGeometryPolygon",
+          "disableExport": true
+        },
+        "179beec2dc4-layer-3": {
+          "id": "dataSource_3-179beec2dc4-layer-3",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/AV_subregions_DEV/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "5ac4bca4f8bd4951840c4886c0f572da",
+          "geometryType": "esriGeometryPolygon"
+        },
+        "179beeaa365-layer-2": {
+          "id": "dataSource_3-179beeaa365-layer-2",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/AV_Regions_DEV/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "0e90fde513944eedbbf1974f1c52f650",
+          "geometryType": "esriGeometryPolygon",
+          "disableExport": true
+        },
+        "179bf03f147-layer-4": {
+          "id": "dataSource_3-179bf03f147-layer-4",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/service_81d09dd8833b4124872f4860fa6b7900/FeatureServer/0",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "b05ca45f2a814e91a223e9f9116ad9a8",
+          "geometryType": "esriGeometryPoint"
+        },
+        "17a0654abc3-layer-5": {
+          "id": "dataSource_3-17a0654abc3-layer-5",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_SearchAndFilter_Experience_tbl_uvw_out/FeatureServer/0",
+          "dataViews": {
+            "no_selection": {
+              "id": "no_selection",
+              "label": "View for empty selection"
+            }
+          },
+          "query": {
+            "id": "default",
+            "label": "GEODB.GEODB_Products.SearchAndFilter_Experience_tbl_uvw_out",
+            "pageSize": 1000
+          },
+          "disableExport": true
+        }
+      }
+    },
+    "dataSource_7": {
+      "id": "dataSource_7",
+      "type": "FEATURE_SERVICE",
+      "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Antivenom_expereince_tbl_uvw_out/FeatureServer",
+      "portalUrl": "https://WHO.maps.arcgis.com",
+      "itemId": "40d2b0063cbe4cf9b5f318cce99ddd9e",
+      "childDataSourceJsons": {
+        "GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out": {
+          "id": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Antivenom_expereince_tbl_uvw_out/FeatureServer/0",
+          "layerId": "0",
+          "portalUrl": "https://WHO.maps.arcgis.com",
+          "itemId": "40d2b0063cbe4cf9b5f318cce99ddd9e",
+          "disableExport": true
+        }
+      }
+    },
+    "dataSource_8": {
+      "id": "dataSource_8",
+      "type": "FEATURE_SERVICE",
+      "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Publications_Experience_UVW_OUT/FeatureServer",
+      "portalUrl": "https://WHO.maps.arcgis.com",
+      "itemId": "f0f8234673ee406a8deafaabab09c8dd",
+      "childDataSourceJsons": {
+        "GEODB.GEODB_Products.Publications_Experience_uvw_out": {
+          "id": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+          "type": "FEATURE_LAYER",
+          "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_Publications_Experience_UVW_OUT/FeatureServer/0",
+          "layerId": "0",
+          "portalUrl": "https://WHO.maps.arcgis.com",
+          "itemId": "f0f8234673ee406a8deafaabab09c8dd",
+          "dataViews": {
+            "no_selection": {
+              "id": "no_selection",
+              "label": "View for empty selection"
+            }
+          },
+          "disableExport": true
+        }
+      }
+    },
+    "dataSource_9": {
+      "id": "dataSource_9",
+      "type": "FEATURE_SERVICE",
+      "url": "https://services.arcgis.com/5T5nSi527N4F7luB/arcgis/rest/services/GEODB_GEODB_Products_SearchAndFilter_Experience_tbl_uvw_out/FeatureServer",
+      "portalUrl": "https://WHO.maps.arcgis.com",
+      "itemId": "2c64c0f1fb0b4c6c99c79556f3566cec"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "widgetId": "widget_35",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "filter-data-record-action-1624197314812",
+          "messageWidgetId": "widget_35",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ],
+              "dataViewId": "selection"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1624197343760",
+          "messageWidgetId": "widget_35",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1624197372365",
+          "messageWidgetId": "widget_35",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "rootDataSourceId": "dataSource_8",
+              "fields": [
+                "Code_Ssn"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1624197506499",
+          "messageWidgetId": "widget_35",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1624197524407",
+          "messageWidgetId": "widget_35",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "rootDataSourceId": "dataSource_8",
+              "fields": [
+                "Code_Ssn"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        }
+      ]
+    },
+    "messageConfig_7": {
+      "id": "messageConfig_7",
+      "widgetId": "widget_119",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_35-filter-1623789331361",
+          "widgetId": "widget_35",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "widget_35-flash-1623789358618",
+          "widgetId": "widget_35",
+          "messageWidgetId": "widget_119",
+          "actionName": "flash",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1623789416365",
+          "messageWidgetId": "widget_119",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798215479",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out-selection",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "dataViewId": "selection",
+              "rootDataSourceId": "dataSource_8",
+              "fields": [
+                "Code_Ssn"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798251411",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out-selection",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "dataViewId": "selection",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1623798495318",
+          "messageWidgetId": "widget_119",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "mainDataSourceId": "dataSource_3-179bd1e2284-layer-3",
+              "rootDataSourceId": "dataSource_3",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798738957",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798758373",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_7-GEODB.GEODB_Products.Antivenom_expereince_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798832167",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "rootDataSourceId": "dataSource_8",
+              "fields": [
+                "Code_Ssn"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1623798887870",
+          "messageWidgetId": "widget_119",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2",
+              "fields": [
+                "CODE_SSN"
+              ]
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "mainDataSourceId": "dataSource_8-GEODB.GEODB_Products.Publications_Experience_uvw_out",
+              "rootDataSourceId": "dataSource_8",
+              "fields": [
+                "Code_Ssn"
+              ]
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623798998846",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "dataViewId": "selection"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "select-data-record-action-1623799016250",
+          "messageWidgetId": "widget_119",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "filter-data-record-action-1623799027376",
+          "messageWidgetId": "widget_119",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out_Dev",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out-selection",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2",
+              "dataViewId": "selection"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "widget_35-panTo-1624532202263",
+          "widgetId": "widget_35",
+          "messageWidgetId": "widget_119",
+          "actionName": "panTo",
+          "description": null,
+          "version": "1.4.0"
+        },
+        {
+          "actionId": "widget_35-zoomToFeature-1624532402957",
+          "widgetId": "widget_35",
+          "messageWidgetId": "widget_119",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "mainDataSourceId": "dataSource_2-GEODB.GEODB_Products.Main_experience_tbl_uvw_out",
+              "rootDataSourceId": "dataSource_2"
+            },
+            "isUseCustomZoomToOption": true,
+            "zoomToOption": {
+              "scale": "50000"
+            }
+          },
+          "version": "1.4.0"
+        }
+      ]
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1625575203557,
+  "header": {
+    "layout": {
+      "LARGE": "layout_51"
+    },
+    "height": {
+      "LARGE": 253
+    },
+    "backgroundColor": "#ffffff",
+    "sticky": true
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_52"
+    },
+    "height": {
+      "LARGE": "500px"
+    }
+  }
+}
